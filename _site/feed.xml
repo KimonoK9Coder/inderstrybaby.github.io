@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-10T16:19:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-03-10T16:19:01+09:00</published><updated>2023-03-10T16:19:01+09:00</updated><id>http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-10T17:21:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Welcome to InderstryBaby’s blog.</title><subtitle>Hello, everyone. This blog is to organize my work and what I&apos;ve learned in my studies.</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2023/03/10/2023-03-10-first-post.html" rel="alternate" type="text/html" title="" /><published>2023-03-10T17:21:44+09:00</published><updated>2023-03-10T17:21:44+09:00</updated><id>http://localhost:4000/2023/03/10/2023-03-10-first-post</id><content type="html" xml:base="http://localhost:4000/2023/03/10/2023-03-10-first-post.html"><![CDATA[<p>이번에 블로그를 개설하게 되었습니다. inderstrybaby라고 합니다.</p>
+
+<p>먼저 자기소개부터 하자면 현재 일본에서 모 IT기업에 입사하여 신입 개발자로서 활동 중인 한국인입니다.</p>
+
+<p>이름을 거창하게 영어로 지어놓은 것치고는 스펠링부터 틀려버려서 창피하지만 블로그 만들고 나서야 눈치를 채버렸습니다.ㅎㅎ</p>
+
+<p>부디 귀엽게 봐주시길 바랍니다.</p>
+
+<p>이 블로그를 개설하게 된 이유는 이유가 3개 있습니다.</p>
+
+<ol>
+  <li>
+    <p>업무 + 개인 학습에서 배운 지식을 정리하기</p>
+  </li>
+  <li>
+    <p>마크다운 언어에 대해 친해지기</p>
+  </li>
+  <li>
+    <p>체계적인 문서작성 요령을 익히기</p>
+  </li>
+</ol>
+
+<p>대부분의 개발자가 블로그를 개설하는 이유와 비슷한 이유이지만 이 블로그를 운영하는 것을 통해 자기 자신뿐만 아니라 방문하게 되는 사람들에게도 도움이 되었으면 합니다.</p>
+
+<p>앞으로 잘 부탁드립니다.</p>]]></content><author><name></name></author></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-03-10T16:19:01+09:00</published><updated>2023-03-10T16:19:01+09:00</updated><id>http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/03/10/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
