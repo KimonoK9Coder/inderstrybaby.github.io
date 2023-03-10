@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &quot;첫 포스트&quot;
+title: "내 첫포스트"
 date: 2023-03-10 +0900
 categories: About
 ---
